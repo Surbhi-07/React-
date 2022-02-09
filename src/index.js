@@ -2,17 +2,23 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 //import App from './App';
-import Constpractice from './Constpractice';
+//import Constpractice from './Constpractice';
 //import Home from './Home';
 //import Class from './Class';
-
+//import Event from './Event';
+//import Functionalprops from './Functionalprops';
+//import Classprops from './Classprops';
+//import State from './State'
+import Propsvalidation from './Propsvalidation'
 
 //import User from './User';
  import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
- <Constpractice />
+ 
+ 
+ <Propsvalidation />
   </React.StrictMode>,
   document.getElementById('root')
 );
