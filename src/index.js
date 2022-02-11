@@ -9,16 +9,18 @@ import './index.css';
 //import Functionalprops from './Functionalprops';
 //import Classprops from './Classprops';
 //import State from './State'
-import Propsvalidation from './Propsvalidation'
-
-//import User from './User';
+//import Lifecyclecomp from './Lifecyclecomp';
+//import Lifecyclecomp2 from './Lifecyclecomp2';
+//import Propsvalidation from './Propsvalidation'
+import Lifecyclecomponent4 from './Lifecyclecomponent4'
+import User from './User';
  import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
- 
- 
- <Propsvalidation />
+
+ <User />
+
   </React.StrictMode>,
   document.getElementById('root')
 );
