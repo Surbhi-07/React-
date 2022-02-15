@@ -12,14 +12,18 @@ import './index.css';
 //import Lifecyclecomp from './Lifecyclecomp';
 //import Lifecyclecomp2 from './Lifecyclecomp2';
 //import Propsvalidation from './Propsvalidation'
-import Lifecyclecomponent4 from './Lifecyclecomponent4'
-import User from './User';
+//import Lifecyclecomponent4 from './Lifecyclecomponent4'
+//import User from './User';
+//import Loginform from './Loginform';
+import Registrationform  from './Registrationform';
+
  import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
 
- <User />
+ <Registrationform />
+ 
 
   </React.StrictMode>,
   document.getElementById('root')

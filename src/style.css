@@ -1,0 +1,13 @@
+
+#register{
+    width: 300px;
+    border: 5px solid #d6d7da;
+    padding: 0px 15px 15px 15px;
+    border-radius: 10px;
+    font-family: arial;
+    line-height: 16px;
+    color: #080808;
+    font-size: 14px;
+    background-color:floralwhite;
+    margin: 100px auto;
+}
